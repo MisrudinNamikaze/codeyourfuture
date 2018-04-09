@@ -5,7 +5,7 @@
 </head>
 <body>
 
-	<center><b>VALIDATE</b></center>
+	<center><b>VALIDASI</b></center>
 
 	<form action="" method="get">
 		<label><b>Validate User</b></label><br><br>

@@ -1,8 +1,8 @@
 <?php
 
 $biodata = array(
-	'name' => 'amin', 
-	'address' => 'jalan kutabima rt 02/rw 02', 
+	'name' => 'Misrudin', 
+	'address' => 'Ciherang rt 01/rw 12 desa limbangan', 
 	'hobbies' => array('madang', 'minum'),
 	'is_married' => false,
 	'school' => array('highSchool' => 'Smk Muhammadiyah Majenang', 'university' => 'belum kuliah'),
