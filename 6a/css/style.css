@@ -1,0 +1,53 @@
+/* MY STYLE */
+
+body{
+    background-color: #f7f9fc;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 14px;
+}
+/* navbar */
+
+nav{
+    position: relative;
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    box-shadow: -1px -7px 20px 0px #888;
+}
+
+.txt{
+	width: 50%!important;
+	background-color: #eee;
+}
+
+.frm{
+	width: 70%;
+}
+
+.but{
+    position: relative;
+    padding: 5px 30px 5px 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    float: right;
+    border-radius: 3px;
+    display: inline-block;
+    color: white;
+}
+
+
+
+.view-data{
+    position: relative;
+    max-width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 60px;
+    border-radius:10px!important;
+    background-color: #fff;
+    box-shadow: 0 0 7px 0 rgba(136,136,136,.2);
+    padding: 30px;
+}
+
+
+
